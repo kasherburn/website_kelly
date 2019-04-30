@@ -1,0 +1,44 @@
+head {
+    color: purple;
+    font-size: 50vw;
+
+}
+h1 {
+    color: orange;
+}
+h2 {
+    color: orange
+}
+h3 {
+    color: orange;
+}
+body {
+    
+    color: blueviolet; 
+    background-color: whitesmoke;
+    
+}
+footer {
+    font-size: 5vw;
+    color: green;
+
+}
+ul {
+    list-style-position: inside;
+    text-align: center;
+}
+ol {
+    text-align: center;
+    list-style-position: inside;
+}
+
+* {
+    color: blueviolet;
+    
+    border-width: thick;
+    border-style: solid;
+    border-color: lightblue;
+    text-align: center;
+    
+}
+
